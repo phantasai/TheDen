@@ -105,7 +105,7 @@
   - type: Spillable
     solution: beaker
   - type: Sprite
-    sprite: _DEN\Objects\Specific\Chemistry\beaker_extralarge.rsi
+    sprite: _DEN/Objects/Specific/Chemistry/beaker_extralarge.rsi
     layers:
     - state: beakerextralarge
     - state: beakerextralarge1
@@ -113,7 +113,7 @@
       visible: false
   - type: Item
     size: Normal
-    sprite: _DEN\Objects\Specific\Chemistry\beaker_extralarge.rsi
+    sprite: _DEN/Objects/Specific/Chemistry/beaker_extralarge.rsi
   - type: SolutionContainerManager
     solutions:
       beaker:
@@ -139,7 +139,7 @@
   - type: Spillable
     solution: beaker
   - type: Sprite
-    sprite: _DEN\Objects\Specific\Chemistry\beaker_plasmaglass.rsi
+    sprite: _DEN/Objects/Specific/Chemistry/beaker_plasmaglass.rsi
     layers:
     - state: plasmaglassbeaker
     - state: plasmaglassbeaker1
@@ -147,7 +147,7 @@
       visible: false
   - type: Item
     size: Normal
-    sprite: _DEN\Objects\Specific\Chemistry\beaker_plasmaglass.rsi
+    sprite: _DEN/Objects/Specific/Chemistry/beaker_plasmaglass.rsi
   - type: SolutionContainerManager
     solutions:
       beaker:
